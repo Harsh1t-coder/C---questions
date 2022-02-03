@@ -2,7 +2,8 @@
 #include<math.h>
 using namespace std;
 int main(){
-    int number = 153;
+    int number = 0;
+    cin>>number;
     int onum = number;
     int sum = 0;
     while(onum>0){

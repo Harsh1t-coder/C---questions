@@ -8,6 +8,7 @@ int fact(int n){
     return mul;
 }
 int main(){
-    int n=5;
+    int n=0;
+    cin>>n;
     cout<<fact(n);
 }
